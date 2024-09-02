@@ -106,7 +106,7 @@ Recall selected as the primary model evaluation metrics as we don't wanna missou
 |Logistic Regression|0.040348	|0.847491	|0.701168	|0.768310	|0.717837	|0.836169	|0.697227	|0.766720	|0.713078
 
 
-The ensemble of different classifiers were evaluated on validation dataset and selected based on fitting time and evaluation metrics. The final ensemble model includes Logistic Regression, K-Nearest, Random Forest, and Extreme Boosting classifiers.
+The ensemble of different classifiers were selected based on fitting time and evaluation metric score and evaluated on validation dataset. The final ensemble model includes Logistic Regression, K-Nearest, Random Forest, and Extreme Boosting classifiers.
 
 Model selection notebook can be found here: [model-selection.ipynb](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Notebook/model-selection.ipynb)
 
