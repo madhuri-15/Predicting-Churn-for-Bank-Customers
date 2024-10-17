@@ -2,7 +2,7 @@
 
 This project focuses on predicting customer churn for a bank using machine learning. The goal is to identify customers who are likely to leave the bank, enabling proactive measures to retain them. The combination of several supervised model developed achieves an accuracy of 82% on the test data, with a precision of 0.73 and recall of 0.77. This metric suggest that the model is effective at identifying customers at risk of churning.
 
-**Tools and Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost.
+**Tools and Technologies**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost.
 
 ## 1. Introduction
 
