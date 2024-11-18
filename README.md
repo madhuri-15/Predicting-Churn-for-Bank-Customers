@@ -87,7 +87,6 @@ Several machine learning models were considered for this task, including:
 
 ![classifier-performance](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Images/clf_performance.png)
 
-Top 15 most influensial features were selected based on feature importance score from Random Forest.
 
 
 ### 6.2 Model Training
