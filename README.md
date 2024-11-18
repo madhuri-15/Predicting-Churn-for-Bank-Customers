@@ -85,7 +85,7 @@ Several machine learning models were considered for this task, including:
 - Gradient Boosting Machine (GBM)
 - Extreme Boosting (xgboost)
 
-![classifier-performance](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Images/clf_performance.png)
+![classifier-performance](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Images/clf_performance.jpeg)
 
 
 
