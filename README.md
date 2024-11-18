@@ -120,7 +120,7 @@ This model performed the best, with the following metrics:
 - Recall: 77%
 - F1 Score: 75%
 
-![test confusion matrix](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Images/test_cm.png)
+![test confusion matrix](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Images/image.png)
 
 Model evaluation notebook can be found here: [model-evaluation.ipynb](https://github.com/madhuri-15/Predicting-Churn-for-Bank-Customers/blob/main/Notebook/model-evaluation.ipynb)
 
